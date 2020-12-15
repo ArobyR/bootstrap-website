@@ -1,5 +1,5 @@
 # Preview
-!["gif"](./docs/video_1.gif)
+!["screenshot"](./docs/video.gif)
 
 ---
 ## Screenshots :camera:
@@ -10,3 +10,4 @@
 
 ---
 !["screenshot"](./docs/screenshot03.png)
+
